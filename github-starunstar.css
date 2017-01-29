@@ -1,0 +1,15 @@
+@-moz-document domain("github.com") {
+/*
+* Name:    GitHub StarUnstar
+* Author:  TrueFurby
+* Repository: https://github.com/TrueFurby/GitHub-StarUnstar
+* Version: v1.0
+*/
+
+form.starred>.btn {
+    background: linear-gradient(#b03e3e, #5c3434) !important;
+}
+form.unstarred>.btn {
+    background: linear-gradient(#ccac04, #726230) !important;
+}
+}
